@@ -4,10 +4,14 @@
     <TargetFramework>netcoreapp1.1</TargetFramework>
     <RootNamespace>BuildingBlocks.EventBus</RootNamespace>
     <AssemblyName>BuildingBlocks.EventBus</AssemblyName>
+    <PackageId>BuildingBlocks.EventBus</PackageId>
+    <Authors>Justin Mackenzie</Authors>
+    <owners>jmackenzie1908</owners>
+    <Description>A simple package that contains abstractions and data structures for an event bus pattern.</Description>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageReleaseNotes>First release.</PackageReleaseNotes>
+    <Copyright>Copyright 2017 (c)</Copyright>
+    <PackageTags>eventbus infrastructure</PackageTags>
   </PropertyGroup>
-
-  <ItemGroup>
-    <PackageReference Include="Newtonsoft.Json" Version="10.0.2" />
-  </ItemGroup>
 
 </Project>
