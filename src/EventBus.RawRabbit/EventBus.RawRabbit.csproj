@@ -2,6 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp1.1</TargetFramework>
+    <PackageId>BuildingBlocks.EventBus.RawRabbit</PackageId>
+    <Authors>Justin Mackenzie</Authors>
+    <owners>jmackenzie1908</owners>
+    <Description>A simple package that contains abstractions and data structures for an event bus pattern, as well as an implementation that uses RawRabbit.</Description>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageReleaseNotes></PackageReleaseNotes>
+    <Copyright>Copyright 2017 (c)</Copyright>
+    <PackageTags>eventbus infrastructure rawrabbit</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
